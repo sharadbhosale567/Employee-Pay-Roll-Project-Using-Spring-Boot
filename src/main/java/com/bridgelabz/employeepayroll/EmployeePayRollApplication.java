@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class EmployeePayRollApplication {
-    public static void main(String[] args) throws Exception{
+    public static void main(String[] args) {
 
         System.out.println("Hello Bridge Labz.....");
         System.out.println("WELL-COME \nEmployee Pay Roll Form ...");
