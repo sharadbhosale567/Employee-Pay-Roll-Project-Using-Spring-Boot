@@ -1,6 +1,6 @@
 package com.bridgelabz.employeepayroll.userservice;
 
-import com.bridgelabz.employeepayroll.model.EmployeeDto;
+import com.bridgelabz.employeepayroll.utility.EmployeeDto;
 import com.bridgelabz.employeepayroll.utility.Response;
 
 public interface IEmployeeService {

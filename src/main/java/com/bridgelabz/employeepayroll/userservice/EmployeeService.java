@@ -1,8 +1,8 @@
 package com.bridgelabz.employeepayroll.userservice;
 
 import com.bridgelabz.employeepayroll.model.Employee;
-import com.bridgelabz.employeepayroll.model.EmployeeDto;
 import com.bridgelabz.employeepayroll.repository.EmployeeRepository;
+import com.bridgelabz.employeepayroll.utility.EmployeeDto;
 import com.bridgelabz.employeepayroll.utility.Response;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
